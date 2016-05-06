@@ -8,9 +8,15 @@
 
 [Arduino documentation](https://www.arduino.cc/en/Reference/HomePage)
 
-[Homemade and hacked sensors](https://diy.org/skills/sensorhacker)
+##Homemade and hacked sensors
 
-[DIY bend sensors](http://www.instructables.com/id/DIY-Bend-Sensor-Using-only-Velostat-and-Masking-T/)
+https://diy.org/skills/sensorhacker
+
+http://www.mysensors.org/
+
+http://www.instructables.com/id/DIY-Bend-Sensor-Using-only-Velostat-and-Masking-T/
+
+http://www.instructables.com/id/Turn-a-pencil-drawing-into-a-capacitive-sensor-for/
 
 #R-PI
 
@@ -59,6 +65,12 @@ https://www.sparkfun.com/products/13723
 https://www.sparkfun.com/products/13027
 
 https://www.sparkfun.com/news/1831
+
+#Heartmonitor and other biosensors
+
+https://learn.sparkfun.com/tutorials/ad8232-heart-rate-monitor-hookup-guide
+
+https://en.wikipedia.org/wiki/Electrocardiography
 
 #Mindwave
 
