@@ -1,5 +1,5 @@
-## HCI/GPIO Workshop: Choate Rosemary Hall, i.d.Lab
-## May 8, 2016
+# HCI/GPIO Workshop: Choate Rosemary Hall, i.d.Lab
+### May 8, 2016
 
 
 #Arduino – DIY Sensors
@@ -8,7 +8,7 @@
 
 [Arduino documentation](https://www.arduino.cc/en/Reference/HomePage)
 
-##Homemade and hacked sensors
+#Homemade and hacked sensors
 
 https://diy.org/skills/sensorhacker
 
