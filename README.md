@@ -26,6 +26,10 @@ http://www.instructables.com/id/Turn-a-pencil-drawing-into-a-capacitive-sensor-f
 
 [Adafruit Processing on R-PI tutorial](https://learn.adafruit.com/processing-on-the-raspberry-pi-and-pitft/overview)
 
+##Bluetooth on R-PI 3
+
+https://www.element14.com/community/docs/DOC-81266/l/setting-up-bluetooth-on-the-raspberry-pi-3
+
 #Processing
 
 https://processing.org/
@@ -103,5 +107,4 @@ http://www.instructables.com/id/Robotic-Hand-controlled-by-Gesture-with-Arduino-
 http://structure.io/
 
 http://structure.io/developers
-
 
