@@ -86,6 +86,8 @@ http://developer.neurosky.com/docs/doku.php?id=arduino_tutorial
 
 http://developer.neurosky.com/docs/doku.php?id=neurosky_101
 
+http://developer.neurosky.com/docs/doku.php?id=sjsu_x_neurosky_hackathon
+
 https://learn.sparkfun.com/tutorials/hackers-in-residence---hacking-mindwave-mobile
 
 https://github.com/redpaperheart/ArduinoMindwave
